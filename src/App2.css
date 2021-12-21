@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    background-color: aquamarine;
+    height: 85vh;
+    width: 85vw;
+    margin: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.weatherApp{
+
+    background-image: url('./img/download\ \(1\).jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 50vw;
+    text-align: center;
+}
+
+.inputhere{
+    margin: 10px;
+}
